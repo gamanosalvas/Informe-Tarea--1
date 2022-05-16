@@ -267,11 +267,12 @@ Específicos:
   44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
   ![image](https://user-images.githubusercontent.com/94025287/168692874-dbce587b-7d7d-44a0-aa58-b74faba07c59.png)
+  
+  R=10ohm
 
   46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
       R= Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
-
 
 4. Video
 
