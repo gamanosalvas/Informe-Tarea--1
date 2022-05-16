@@ -143,73 +143,126 @@ Específicos:
   
   2. ¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?
 
+   ![image](https://user-images.githubusercontent.com/94025287/168698402-a558fda0-5cd5-4678-b351-92c477cf3056.png)
+
   4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
+    
+     ![image](https://user-images.githubusercontent.com/94025287/168698484-5fa0999d-be7e-4b40-821f-29a102cba72d.png)
 
   6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
+     ![image](https://user-images.githubusercontent.com/94025287/168698534-e3a2aa68-13b0-4ae0-ab42-31648e8ebe12.png)
+
   8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 
+     ![image](https://user-images.githubusercontent.com/94025287/168698585-a7ce8ffa-d59a-49d7-87ae-43f6c66c6b95.png)
+     
   10. Determine la corriente en cada uno de los siguientes casos:
-
+  
   (a) 75 C en 1 s   (b) 10 C en 0.5 s   (c) 5 C en 2 s
   
+  ![image](https://user-images.githubusercontent.com/94025287/168698773-7353555a-f0bf-4cac-8ebf-f86cdc98361e.png)
+  
   12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
-
+    
+      ![image](https://user-images.githubusercontent.com/94025287/168698824-c2cce183-8186-421a-87a6-8b27cb1d7e9e.png)
 
   14. 5.74*10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
+      ![image](https://user-images.githubusercontent.com/94025287/168698913-6de57f19-c113-41f1-87bf-87a2e89bcb08.png)
 
   16. Encuentre la resistencia correspondiente a las siguientes conductancias:
   
       (a) 0.1 S (b) 0.5 S (c) 0.02 S
       
+      ![image](https://user-images.githubusercontent.com/94025287/168698973-b83d05af-4e37-4350-9273-4e5e01604b8a.png)
+
   18. ¿En qué principio se basan los generadores eléctricos?
+
+       Ley de Faraday
 
   20. Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500 ¿cuál es la corriente en la carga?
 
+      ![image](https://user-images.githubusercontent.com/94025287/168699121-48a94c42-475d-4c52-911f-fd82d04963bf.png)
+      
   22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
+      ![image](https://user-images.githubusercontent.com/94025287/168699231-ba47ae6d-dd9a-4dfb-8602-86a7d7db7bd2.png)
+      
   24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
   (a) café, negro, negro, oro
+      
+   R= 10ohm =+-5%
+        
   (b) verde, café, verde, plata
+  
+  R=5,100,000ohm +-10%
+  
   (c) azul, gris, negro, oro
+  
+  R=68hom +-5%
 
   26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
   
   (a) rojo, gris, violeta, rojo, café
+  
+  R=28,700ohm +-1%
+  
   (b) azul, negro, amarillo, oro, café
+  
+  R=60.4ohm +-1%
+  
   (c) blanco, naranja, café, café, café
   
+  R=9310ohm +-1%
+  
   28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre       cada terminal y el contacto ajustable?
+
+      ![image](https://user-images.githubusercontent.com/94025287/168699854-99abaadf-b01d-4652-92bb-e8f32a9abf8f.png)
+
 
   30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
   
       (a) 4R7J (b) 5602M (c) 1501F
       
+      ![image](https://user-images.githubusercontent.com/94025287/168699914-6561bf5a-ffa8-44e8-ab25-32ca6c2bc6ea.png)
+      
   32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente         excesiva.
 
       ![image](https://user-images.githubusercontent.com/94025287/168692291-bf75e94e-980c-4f4f-96da-8a1d2cdc02fc.png)
       
+      ![image](https://user-images.githubusercontent.com/94025287/168700030-cc4994e6-3025-475f-81d8-7a4208c7f888.png)
+      
   34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
       ![image](https://user-images.githubusercontent.com/94025287/168692371-84835ac1-341a-43f8-905f-d98e6b12499f.png)
+      
+      R= A traves del resistor número 5.
 
   36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo         interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante       una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
 
       ![image](https://user-images.githubusercontent.com/94025287/168692503-a6895754-a70f-4891-af3d-ecf91e5f246b.png)
       
+      ![image](https://user-images.githubusercontent.com/94025287/168700140-c11cac96-9042-4aa6-9892-c122efcdecec.png)
+      
   38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
 
   ![image](https://user-images.githubusercontent.com/94025287/168692551-a2dbab25-0003-4f89-8e1f-cdd2c1e44c86.png)
+  
+  ![image](https://user-images.githubusercontent.com/94025287/168700200-f68bb4ab-ac63-4252-a6dd-e4551d720005.png)
 
   40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
 
   ![image](https://user-images.githubusercontent.com/94025287/168692654-f9027547-21a9-4950-bd21-0f6c98ed5223.png)
+  
+  ![image](https://user-images.githubusercontent.com/94025287/168700323-db45183c-574f-42a9-aee9-b8353a680635.png)
 
   42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resisto presente en la figura 2-70.
 
   ![image](https://user-images.githubusercontent.com/94025287/168692803-97c379f7-788f-4eb7-bb81-13c5d2ed7e29.png)
+  
+  ![image](https://user-images.githubusercontent.com/94025287/168700368-88f01b44-5e59-47a6-97bd-49564b563c74.png)
 
   44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
@@ -217,7 +270,7 @@ Específicos:
 
   46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
-
+      R= Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
 
 4. Video
