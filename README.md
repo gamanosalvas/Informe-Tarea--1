@@ -159,8 +159,67 @@ Específicos:
   14. 5.74*10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
 
-
+  16. Encuentre la resistencia correspondiente a las siguientes conductancias:
   
+      (a) 0.1 S (b) 0.5 S (c) 0.02 S
+      
+  18. ¿En qué principio se basan los generadores eléctricos?
+
+  20. Cierta fuente de corriente proporciona 100 mA a 1 k de carga. Si la resistencia disminuye a 500 ¿cuál es la corriente en la carga?
+
+  22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+  24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+  (a) café, negro, negro, oro
+  (b) verde, café, verde, plata
+  (c) azul, gris, negro, oro
+
+  26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+  
+  (a) rojo, gris, violeta, rojo, café
+  (b) azul, negro, amarillo, oro, café
+  (c) blanco, naranja, café, café, café
+  
+  28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 , ¿cuál es la resistencia entre       cada terminal y el contacto ajustable?
+
+  30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+  
+      (a) 4R7J (b) 5602M (c) 1501F
+      
+  32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente         excesiva.
+
+      ![image](https://user-images.githubusercontent.com/94025287/168692291-bf75e94e-980c-4f4f-96da-8a1d2cdc02fc.png)
+      
+  34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+      ![image](https://user-images.githubusercontent.com/94025287/168692371-84835ac1-341a-43f8-905f-d98e6b12499f.png)
+
+  36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo         interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante       una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+
+      ![image](https://user-images.githubusercontent.com/94025287/168692503-a6895754-a70f-4891-af3d-ecf91e5f246b.png)
+      
+  38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+  ![image](https://user-images.githubusercontent.com/94025287/168692551-a2dbab25-0003-4f89-8e1f-cdd2c1e44c86.png)
+
+  40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+
+  ![image](https://user-images.githubusercontent.com/94025287/168692654-f9027547-21a9-4950-bd21-0f6c98ed5223.png)
+
+  42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resisto presente en la figura 2-70.
+
+  ![image](https://user-images.githubusercontent.com/94025287/168692803-97c379f7-788f-4eb7-bb81-13c5d2ed7e29.png)
+
+  44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+  ![image](https://user-images.githubusercontent.com/94025287/168692874-dbce587b-7d7d-44a0-aa58-b74faba07c59.png)
+
+  46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+
+
+
 4. Video
 
 5. Conclusiones:
