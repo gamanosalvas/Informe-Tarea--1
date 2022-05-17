@@ -273,7 +273,7 @@ Específicos:
   46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
       R= Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
-
+      
   4. Video
 
 
