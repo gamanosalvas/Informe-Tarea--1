@@ -274,9 +274,11 @@ Específicos:
 
       R= Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
 
-4. Video
+  4. Video
 
-5. Conclusiones:
+
+
+  5. Conclusiones:
 
 • Al realizar los ejercicios propuestos se llegó a la conclusión de que existen varias unidades de medida en el SI y todas guardan una relación entre si permitiéndonos de esta manera realizar conversiones para obtener resultados en diferentes Unidades de medida según necesitemos.
 
