@@ -274,9 +274,9 @@ Específicos:
 
       R= Un multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución.
       
-  4. Video
-
-
+  4. Video:
+  
+      https://youtu.be/4C-r53DElVI
 
   5. Conclusiones:
 
@@ -286,5 +286,6 @@ Específicos:
 
 • Observe que existen dos tipos de diagramas a la hora de realizar la esquematización de un circuito, sin embargo, aunque los diagramas pictográficos son más fáciles de entender a la hora de dibujarlos es más difícil, mientras que los esquemáticos son mucho más fáciles de dibujarlos y con un poco de practica podremos entenderlos de manera correcta.
 
-Bibliografia
+Bibliografia:
+
 F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
